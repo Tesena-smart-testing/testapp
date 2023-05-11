@@ -1,2 +1,3 @@
 # testapp
-Testovací aplikace, vytvářená Pavlem Adamem
+
+Aplikace pro školení testování
